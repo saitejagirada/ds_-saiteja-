@@ -24,12 +24,12 @@ ds_<your_name>/
 ```
 # 1. Clone the repository
 git clone https://github.com/<saitejagirada>/ds_-saiteja-.git
-cd ds_<YOUR_NAME>
+cd ds_-saiteja-
 
 # 2. Install required libraries
 pip install pandas matplotlib seaborn scikit-learn xgboost
 
 # 3. Run the analysis script
-python run_analysis.py
+python3 dassignment-2.py
 ```
 ---
