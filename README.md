@@ -21,7 +21,7 @@ ds_<your_name>/
 ```
 ```
 # 1. Clone the repository
-git clone https://github.com/<saitejagirada>/ds_<saiteja>.git
+git clone https://github.com/<saitejagirada>/ds_-saiteja-.git
 cd ds_<YOUR_NAME>
 
 # 2. Install required libraries
